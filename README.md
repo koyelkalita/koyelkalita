@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate Computer Science student, debugging life one error at a time :)</p>
+<p align="left">An undergraduate Computer Science student, debugging life one error at a time :)</p>
 
 ###
 
